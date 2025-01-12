@@ -1,6 +1,8 @@
 # Image Classification with TensorFlow
 
-This project demonstrates the use of TensorFlow for training a binary image classification model. The model is designed to classify images based on labels provided in a CSV file. It uses convolutional neural networks (CNNs) to process and classify images and is structured to handle the dataset efficiently.
+This project demonstrates the use of TensorFlow for training a binary image classification model. The model is designed to classify images based on labels provided in a CSV file. It uses convolutional neural networks (CNNs) to process and classify images and is structured to handle the dataset efficiently. It was completed as part of the local division of the National Science Foundation (NSF) Harnessing the Data Revolution (HDR) Machine Learning Challenge Hackathon run by UCSD SMASH. 
+
+## Contributors: Esther Chung, Mythri Kishore, Preethi Manne, Abhi Sathvika Goriparthy
 
 # Prerequisites
 Make sure to install the required dependencies before running the script:
